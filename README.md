@@ -48,6 +48,10 @@ Healthr uses Ethereum smart contracts for tamper-proof record verification and I
 
 ![Patient Dashboard]()
 
+### Patient Operations
+
+![Patient Operations]()
+
 ### Provider Dashboard
 
 ![Provider Dashboard]()
