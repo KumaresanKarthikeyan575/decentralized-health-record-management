@@ -42,23 +42,23 @@ Healthr uses Ethereum smart contracts for tamper-proof record verification and I
 
 ### Role Selection Screen
 
-![Role Selection]()
+![Role Selection](https://github.com/KumaresanKarthikeyan575/decentralized-health-record-management/blob/2370c47ce13fe1f544a133386197a6224bd2cb53/Screenshot%202026-05-15%20013812.png)
 
 ### Patient Dashboard
 
-![Patient Dashboard]()
+![Patient Dashboard](https://github.com/KumaresanKarthikeyan575/decentralized-health-record-management/blob/da71eea756c10b0222428c50ccc36c88e6e748ee/Screenshot%202026-05-15%20014854.png)
 
 ### Patient Operations
 
-![Patient Operations]()
+![Patient Operations](https://github.com/KumaresanKarthikeyan575/decentralized-health-record-management/blob/da71eea756c10b0222428c50ccc36c88e6e748ee/Screenshot%202026-05-15%20015044.png)
 
 ### Provider Dashboard
 
-![Provider Dashboard]()
+![Provider Dashboard](https://github.com/KumaresanKarthikeyan575/decentralized-health-record-management/blob/da71eea756c10b0222428c50ccc36c88e6e748ee/Screenshot%202026-05-15%20014611.png)
 
 ### Emergency Access Screen
 
-![Emergency Access]()
+![Emergency Access](https://github.com/KumaresanKarthikeyan575/decentralized-health-record-management/blob/da71eea756c10b0222428c50ccc36c88e6e748ee/Screenshot%202026-05-15%20014508.png)
 
 ## Tech Stack
 
